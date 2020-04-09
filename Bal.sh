@@ -22,7 +22,7 @@ echo "|__|           Termux_ID               |__|  |  | R |" | lolcat
 echo "|__|===================================|__|  |  | E |" | lolcat
 echo "|__|          •Bucin Area😍•           |__|  |  | C |" | lolcat
 echo "|__|===================================|__|  /  | O |" | lolcat
-echo "|__|______| Author: Mr.B41B4L.X |______|__|_/   | D |" | lolcat
+echo "|__|______| Author: BalBaL Kun  |______|__|_/   | D |" | lolcat
 echo "          |_____________________|/              | E |" | lolcat
 echo "                                                |---|" | lolcat
 echo ""
